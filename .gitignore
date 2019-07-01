@@ -1,0 +1,6 @@
+
+*.ide-wal
+
+SampleService/\.DS_Store
+
+SampleService/\.vs/SampleService/xs/UserPrefs\.xml

@@ -1,0 +1,14 @@
+/home/mosthated/_dev/github.com/instance-id/AzurePiplinesDeploymentTest/SampleService/SampleService/bin/Debug/netcoreapp2.1/SampleService.deps.json
+/home/mosthated/_dev/github.com/instance-id/AzurePiplinesDeploymentTest/SampleService/SampleService/bin/Debug/netcoreapp2.1/SampleService.runtimeconfig.json
+/home/mosthated/_dev/github.com/instance-id/AzurePiplinesDeploymentTest/SampleService/SampleService/bin/Debug/netcoreapp2.1/SampleService.runtimeconfig.dev.json
+/home/mosthated/_dev/github.com/instance-id/AzurePiplinesDeploymentTest/SampleService/SampleService/bin/Debug/netcoreapp2.1/SampleService.dll
+/home/mosthated/_dev/github.com/instance-id/AzurePiplinesDeploymentTest/SampleService/SampleService/bin/Debug/netcoreapp2.1/SampleService.pdb
+/home/mosthated/_dev/github.com/instance-id/AzurePiplinesDeploymentTest/SampleService/SampleService/obj/Debug/netcoreapp2.1/SampleService.csprojAssemblyReference.cache
+/home/mosthated/_dev/github.com/instance-id/AzurePiplinesDeploymentTest/SampleService/SampleService/obj/Debug/netcoreapp2.1/SampleService.csproj.CoreCompileInputs.cache
+/home/mosthated/_dev/github.com/instance-id/AzurePiplinesDeploymentTest/SampleService/SampleService/obj/Debug/netcoreapp2.1/SampleService.RazorAssemblyInfo.cache
+/home/mosthated/_dev/github.com/instance-id/AzurePiplinesDeploymentTest/SampleService/SampleService/obj/Debug/netcoreapp2.1/SampleService.RazorAssemblyInfo.cs
+/home/mosthated/_dev/github.com/instance-id/AzurePiplinesDeploymentTest/SampleService/SampleService/obj/Debug/netcoreapp2.1/SampleService.AssemblyInfoInputs.cache
+/home/mosthated/_dev/github.com/instance-id/AzurePiplinesDeploymentTest/SampleService/SampleService/obj/Debug/netcoreapp2.1/SampleService.AssemblyInfo.cs
+/home/mosthated/_dev/github.com/instance-id/AzurePiplinesDeploymentTest/SampleService/SampleService/obj/Debug/netcoreapp2.1/SampleService.RazorTargetAssemblyInfo.cache
+/home/mosthated/_dev/github.com/instance-id/AzurePiplinesDeploymentTest/SampleService/SampleService/obj/Debug/netcoreapp2.1/SampleService.dll
+/home/mosthated/_dev/github.com/instance-id/AzurePiplinesDeploymentTest/SampleService/SampleService/obj/Debug/netcoreapp2.1/SampleService.pdb
