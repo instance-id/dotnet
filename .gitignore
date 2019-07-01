@@ -1,6 +1,4 @@
 
-*.ide-wal
-
-SampleService/\.DS_Store
+*.idea/**
 
 SampleService/\.vs/SampleService/xs/UserPrefs\.xml

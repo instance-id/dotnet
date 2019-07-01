@@ -17,8 +17,8 @@ steps:
   displayName: 'docker image build'
   workingDirectory: SampleService/SampleService
 - script: |
-    docker login -u  -p 
-    docker push /sampleservice
+    docker login -u example -p example
+    docker push example/sampleservice
   displayName: 'push docker image to dockerhub'
   workingDirectory: SampleService/SampleService
 - task: HelmInstaller@0
