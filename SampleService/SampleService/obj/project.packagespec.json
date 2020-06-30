@@ -1,18 +1,20 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/mosthated/_dev/github.com/instance-id/AzurePiplinesDeploymentTest/SampleService/SampleService/SampleService.csproj",
+    "projectUniqueName": "E:\\GitHub\\instance-id\\dotnet\\SampleService\\SampleService\\SampleService.csproj",
     "projectName": "SampleService",
-    "projectPath": "/home/mosthated/_dev/github.com/instance-id/AzurePiplinesDeploymentTest/SampleService/SampleService/SampleService.csproj",
-    "outputPath": "/home/mosthated/_dev/github.com/instance-id/AzurePiplinesDeploymentTest/SampleService/SampleService/obj/",
+    "projectPath": "E:\\GitHub\\instance-id\\dotnet\\SampleService\\SampleService\\SampleService.csproj",
+    "outputPath": "E:\\GitHub\\instance-id\\dotnet\\SampleService\\SampleService\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+      "C:\\Microsoft\\Xamarin\\NuGet",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
       "netcoreapp2.1"
     ],
     "sources": {
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
       "https://api.nuget.org/v3/index.json": {}
     },
     "frameworks": {
@@ -43,10 +45,16 @@
         }
       },
       "imports": [
-        "net461"
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
       ],
       "assetTargetFallback": true,
-      "warn": true
+      "warn": true,
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.6.20270.51\\RuntimeIdentifierGraph.json"
     }
   }
 }
